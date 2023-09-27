@@ -245,4 +245,8 @@
         </collision-->
     </link>
 
+    <gazebo reference="base_link">
+        <material>Gazebo/Black</material>
+    </gazebo>
+
 </robot>
